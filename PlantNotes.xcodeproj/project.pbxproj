@@ -10,33 +10,9 @@
 		3FDE44AA3063884100F94627 /* PlantNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = PlantNotes.app; path = "/Users/student/Desktop/PlantNotes/build/Debug-iphoneos/PlantNotes.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3FDE450B30638DF200F94627 /* Exceptions for "PlantNotes" folder in "PlantNotes" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Views/ReusableViews/CareActionsSection.swift,
-			);
-			target = 3FDE44A93063884100F94627 /* PlantNotes */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		3FDE450C30638DF200F94627 /* Exceptions for "PlantNotes" folder in "Copy Bundle Resources" phase from "PlantNotes" target */ = {
-			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			buildPhase = 3FDE44A83063884100F94627 /* Resources */;
-			membershipExceptions = (
-				Views/ReusableViews/CareActionsSection.swift,
-			);
-		};
-/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3FDE44AC3063884100F94627 /* PlantNotes */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				3FDE450B30638DF200F94627 /* Exceptions for "PlantNotes" folder in "PlantNotes" target */,
-				3FDE450C30638DF200F94627 /* Exceptions for "PlantNotes" folder in "Copy Bundle Resources" phase from "PlantNotes" target */,
-			);
 			path = PlantNotes;
 			sourceTree = "<group>";
 		};
