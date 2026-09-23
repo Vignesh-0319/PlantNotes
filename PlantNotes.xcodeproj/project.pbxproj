@@ -7,12 +7,38 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3FDE44AA3063884100F94627 /* PlantNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlantNotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FDE44AA3063884100F94627 /* PlantNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = PlantNotes.app; path = "/Users/student/Desktop/PlantNotes/build/Debug-iphoneos/PlantNotes.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3FDE450B30638DF200F94627 /* Exceptions for "PlantNotes" folder in "PlantNotes" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				PlantNotes/Views/ReusableViews/CareActionsSection.swift,
+				PlantNotes/Views/ReusableViews/PlantAvatar.swift,
+				PlantNotes/Views/ReusableViews/StatCard.swift,
+			);
+			target = 3FDE44A93063884100F94627 /* PlantNotes */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		3FDE450C30638DF200F94627 /* Exceptions for "PlantNotes" folder in "Copy Bundle Resources" phase from "PlantNotes" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 3FDE44A83063884100F94627 /* Resources */;
+			membershipExceptions = (
+				PlantNotes/Views/ReusableViews/CareActionsSection.swift,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3FDE44AC3063884100F94627 /* PlantNotes */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3FDE450B30638DF200F94627 /* Exceptions for "PlantNotes" folder in "PlantNotes" target */,
+				3FDE450C30638DF200F94627 /* Exceptions for "PlantNotes" folder in "Copy Bundle Resources" phase from "PlantNotes" target */,
+			);
 			path = PlantNotes;
 			sourceTree = "<group>";
 		};
@@ -31,16 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				3FDE44AC3063884100F94627 /* PlantNotes */,
-				3FDE44AB3063884100F94627 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		3FDE44AB3063884100F94627 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				3FDE44AA3063884100F94627 /* PlantNotes.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -89,7 +106,7 @@
 			mainGroup = 3FDE44A13063884100F94627;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3FDE44AB3063884100F94627 /* Products */;
+			productRefGroup = 3FDE44A13063884100F94627;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
