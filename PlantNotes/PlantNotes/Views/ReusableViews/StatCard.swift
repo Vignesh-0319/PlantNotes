@@ -1,3 +1,10 @@
+//
+//  StatCard.swift
+//  PlantNotes
+//
+//  Created by SUPER CHARGE on 23/09/26.
+//
+
 import SwiftUI
 
 struct StatCard: View {
@@ -20,4 +27,3 @@ struct StatCard: View {
         .cardStyle()
     }
 }
-

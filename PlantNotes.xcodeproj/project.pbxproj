@@ -15,7 +15,6 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				PlantNotes/Views/ReusableViews/CareActionsSection.swift,
-				PlantNotes/Views/ReusableViews/StatCard.swift,
 			);
 			target = 3FDE44A93063884100F94627 /* PlantNotes */;
 		};
