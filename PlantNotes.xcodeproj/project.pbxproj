@@ -14,7 +14,7 @@
 		3FDE450B30638DF200F94627 /* Exceptions for "PlantNotes" folder in "PlantNotes" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				PlantNotes/Views/ReusableViews/CareActionsSection.swift,
+				Views/ReusableViews/CareActionsSection.swift,
 			);
 			target = 3FDE44A93063884100F94627 /* PlantNotes */;
 		};
@@ -25,7 +25,7 @@
 			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
 			buildPhase = 3FDE44A83063884100F94627 /* Resources */;
 			membershipExceptions = (
-				PlantNotes/Views/ReusableViews/CareActionsSection.swift,
+				Views/ReusableViews/CareActionsSection.swift,
 			);
 		};
 /* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
