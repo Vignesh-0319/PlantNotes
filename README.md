@@ -1,2 +1,3 @@
-## Demo
-[Watch the PlantPal Demo](./VID-20260928-WA0007.mp4)
+## 🎥 Demo
+
+[Watch PlantPal Demo on YouTube Shorts](https://youtube.com/shorts/rJ5QC1g4a5w?si=IMZobRt2M2xQFxyf)
